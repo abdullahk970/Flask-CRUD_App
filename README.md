@@ -4,6 +4,20 @@
 
 ![Flask](https://img.shields.io/badge/Flask-Backend-black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red) ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
+## ⚠️ Before you push this
+
+Your repo has `__pycache__/` committed. Add a `.gitignore`:
+
+```bash
+echo "__pycache__/
+*.pyc
+instance/" > .gitignore
+
+git rm -r --cached __pycache__
+git add .gitignore
+git commit -m "Add .gitignore, remove cache from tracking"
+git push
+```
 
 ## 🚀 Overview
 
