@@ -83,4 +83,4 @@ User Action → Flask Route → Form Validation → SQLAlchemy ORM Operation →
 
 ## 👨‍💻 Author
 
-**Abdullah Khan**
+**Muhammad Abdullah Khan**
