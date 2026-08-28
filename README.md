@@ -179,8 +179,8 @@ For production use, additional engineering work would be required around:
 
 **Muhammad Abdullah Khan**
 
-- GitHub: https://github.com/abdullahk970
-- LinkedIn: https://www.linkedin.com/in/muhammad-abdullah-khan-9b0980316?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- GitHub: [abdullahk970](https://github.com/abdullahk970)
+- LinkedIn: [Muhammad Abdullah Khan](https://www.linkedin.com/in/muhammad-abdullah-khan-9b0980316?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
